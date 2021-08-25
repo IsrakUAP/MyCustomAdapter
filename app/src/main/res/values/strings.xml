@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCustomAdapter</string>
+    <string-array name="country_names">
+        <item>Afganistan</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Bangladesh</item>
+        <item>China</item>
+
+    </string-array>
+</resources>
